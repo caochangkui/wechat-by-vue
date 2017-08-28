@@ -45,16 +45,16 @@ npm run build //项目打包
 
 ### 微信聊天（每个联系人聊天后可自动添加到首页）
 
-<img src="https://raw.githubusercontent.com/caochangkui/common-resources/master/wechat-img/screenshot/GIF111.gif" width="375" height="664" alt="" />
+<img src="https://raw.githubusercontent.com/caochangkui/common-resources/master/wechat-img/screenshot/GIF111.gif" width="225" height="400" alt="" />
 
 
 ### 朋友圈、点赞
 
-<img src="https://raw.githubusercontent.com/caochangkui/common-resources/master/wechat-img/screenshot/GIF222.gif" width="375" height="664"/> 
+<img src="https://raw.githubusercontent.com/caochangkui/common-resources/master/wechat-img/screenshot/GIF222.gif" width="225" height="400"/> 
 
 ### 个人中心、相册、钱包、卡包、设置
 
-<img src="https://raw.githubusercontent.com/caochangkui/common-resources/master/wechat-img/screenshot/GIF333.gif" width="375" height="664"/> 
+<img src="https://raw.githubusercontent.com/caochangkui/common-resources/master/wechat-img/screenshot/GIF333.gif" width="225" height="400"/> 
 
  
 
