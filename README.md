@@ -38,7 +38,7 @@ npm run build //项目打包
 
 ### 移动端扫描下方二维码可直接打开
 
-![](https://raw.githubusercontent.com/caochangkui/common-resources/master/wechat-img/code.png)
+![](https://www.cnblogs.com/images/cnblogs_com/cckui/1071419/o_1560499484.png)
 
 
 
