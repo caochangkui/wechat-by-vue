@@ -44,7 +44,7 @@ npm run build //项目打包
 
 # 页面部分截图
 
-### 微信聊天（每个联系人聊天后可自动添加到首页）
+### 微信聊天
 
 <img src="https://raw.githubusercontent.com/caochangkui/common-resources/master/wechat-img/screenshot/GIF111.gif" width="225" height="400" alt="" />
 
